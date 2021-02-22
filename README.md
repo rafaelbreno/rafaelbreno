@@ -4,9 +4,11 @@
 - I'm currently learning/improving:
     - Golang
     - Laravel
-    - DevOps
     - Clean Architecture
     - TDD
+- Aiming to be:
+    - SRE/DevOps
+    - Back-end Engineer
 #### Projects
 - [Laravel Snippets](https://github.com/rafaelbreno/laravel-snippets)
     - I've been using Laravel for some time, it's time to document my knowledge and studies. 
