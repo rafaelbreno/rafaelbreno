@@ -14,16 +14,16 @@
     - I've been using Laravel for some time, it's time to document my knowledge and studies. 
 - [Go4Noobs](https://github.com/rafaelbreno/go4noobs)
     - A roadmap of my Gopher Studies
-- [Go Proj](https://github.com/rafaelbreno/go-proj)
+- [Go Proj](https://github.com/rafaelbreno/go-api-template)
     - A simple TODO List with JWT
     - Implementing:
-        - [x] Docker
-        - [x] TDD
-        - [x] Nginx
-        - [x] Postgres 
-        - [x] Redis
-        - [ ] Jenkins
-        - [ ] Kubernetes
+        - Docker
+        - TDD
+        - Nginx
+        - Postgres 
+        - Redis
+        - CircleCI
+        - Kubernetes
         - and more...
 #### How to reach me:
 - [Twitter](https://twitter.com/rafiuzky)
