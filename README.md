@@ -1,5 +1,5 @@
 ### Hello Stranger
-- I'm Rafael, a 21y Software Engineer and a Go Enthusiast
+- I'm Rafael, a 22y Software Engineer and a Go Enthusiast
 - Currently learning/improving:
     - Golang
     - Functional Programming(I'm trying, okay?)
