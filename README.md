@@ -3,7 +3,7 @@
 - Currently learning/improving:
     - Golang
     - Cloud & Web Services
-    - Functional Programming(I'm trying, okay?)
+    - Zig (I'm trying, okay?)
 #### Projects
 - [Go4Noobs](https://github.com/rafaelbreno/go4noobs)
     - A roadmap of my Gopher Studies
